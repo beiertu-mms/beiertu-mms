@@ -1,6 +1,9 @@
 ### Hello there 👋
-
 I am Tung Beier, a backend developer, currently working for MediaMarktSaturn.
+
+* ⚡ Fun fact:
+  * like Vim, Archlinux, the terminal, Intellij Idea
+  * hate Apple, just because
 
 <!--
 **beiertu-mms/beiertu-mms** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,5 +17,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 -->
