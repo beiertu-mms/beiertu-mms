@@ -1,7 +1,7 @@
 ### Hello there 👋
 I am Tung Beier, a backend developer, currently working for MediaMarktSaturn.
 
-* ⚡ Fun fact:
+⚡ Fun fact:
   * like Vim, Archlinux, the terminal, Intellij Idea
   * hate Apple, just because
 
