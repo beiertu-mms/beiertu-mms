@@ -8,7 +8,8 @@ I am Tung Beier, a backend developer, currently working for MediaMarktSaturn.
   * hate Apple, just because
   * Playstation or XBox? PC
 
-  
+![Vim](https://github.com/konpa/devicon/tree/master/icons/vim/vim-orginal.svg =50x50)
+
 <!--
 **beiertu-mms/beiertu-mms** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -20,6 +21,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-
-![Vim](https://cdn.jsdelivr.net/gh/konpa/devicon@master/devicon.min.css "Vim")
 -->
