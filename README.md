@@ -1,7 +1,7 @@
 ### Hello there 👋
-I am Tung Beier, a backend developer, currently working for MediaMarktSaturn.
+I am Tung Beier, a backend developer.
 
-🌱 I’m currently learning and working mainly with Apache Kafka and Kotlin.
+🌱 Currently learning and working mainly with Apache Kafka and Kotlin.
 
 ⚡ Fun fact:
   * like Vim, Linux, the terminal, Intellij Idea
