@@ -17,9 +17,9 @@ Looking forward to learning more about Backend Development from everyone.
 
 ### &#x1f4c8; My GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beiertu-mms&langs_count=10&layout=compact&theme=solarized-dark&hide_title=true&hide=css&exclude_repo=dwm,st,dmenu,dwmblocks)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beiertu-mms&langs_count=10&layout=compact&theme=onedark&hide_title=true&hide=css&exclude_repo=dwm,st,dmenu,dwmblocks)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=beiertu-mms&count_private=true&show_icons=true&theme=solarized-dark&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=beiertu-mms&count_private=true&show_icons=true&theme=onedark&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 <img src="https://github.com/konpa/devicon/tree/master/icons/vim/vim-orginal.svg" alt="Vim">
