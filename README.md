@@ -1,4 +1,4 @@
-## Hello there 👋, I am Tung Beier
+## Hello there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Tung Beier.
 
 A Software Engineer specializing in JVM technologies and GCP.  
 I am specialize on the development of backend services.  
