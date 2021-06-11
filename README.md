@@ -17,22 +17,58 @@ Looking forward to learning more about Backend Development from everyone.
 
 ### 🧰 My Toolbox
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="CSS" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" alt="CSS" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" alt="CSS" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="CSS" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="CSS" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="CSS" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" alt="CSS" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" alt="CSS" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/gradle/gradle-plain.svg" alt="CSS" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" alt="CSS" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" alt="CSS" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" alt="CSS" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" alt="CSS" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/chrome/chrome-plain.svg" alt="CSS" width="50" height="50"/>
+<a href="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
+  <img align="center" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="CSS" width="50" height="50"/> 
+</a>
+<a href="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg">
+  <img align="center" src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" alt="CSS" width="50" height="50"/> 
+</a>
+<a href="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg">
+  <img align="center" src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" alt="CSS" width="50" height="50"/> 
+</a>
+<a href="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
+  <img align="center" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="CSS" width="50" height="50"/> 
+</a>
+<a href="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg">
+  <img align="center" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="CSS" width="50" height="50"/> 
+</a>
+<a href="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
+  <img align="center" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="CSS" width="50" height="50"/> 
+</a>
+<a href="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg">
+  <img align="center" src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" alt="CSS" width="50" height="50"/> 
+</a>
+<a href="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg">
+  <img align="center" src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" alt="CSS" width="50" height="50"/> 
+</a>
+<a href="https://github.com/devicons/devicon/blob/master/icons/gradle/gradle-plain.svg">
+  <img align="center" src="https://github.com/devicons/devicon/blob/master/icons/gradle/gradle-plain.svg" alt="CSS" width="50" height="50"/> 
+</a>
+<a href="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg">
+  <img align="center" src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" alt="CSS" width="50" height="50"/> 
+</a>
+<a href="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg">
+  <img align="center" src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" alt="CSS" width="50" height="50"/> 
+</a>
+<a href="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg">
+  <img align="center" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" alt="CSS" width="50" height="50"/> 
+</a>
+<a href="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg">
+ <img align="center" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" alt="CSS" width="50" height="50"/>
+</a>
 
 ---
 
 ### &#x1f4c8; My GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beiertu-mms&langs_count=10&layout=compact&theme=onedark&hide_title=true&hide=css&exclude_repo=dwm,st,dmenu,dwmblocks)](https://github.com/anuraghazra/github-readme-stats)
-
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=beiertu-mms&count_private=true&show_icons=true&theme=onedark&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beiertu-mms&langs_count=10&layout=compact&theme=onedark&hide_title=true&hide=css&exclude_repo=dwm,st,dmenu,dwmblocks" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=beiertu-mms&count_private=true&show_icons=true&theme=onedark&hide_title=true" />
+</a>
 
 <!--
-<img src="https://github.com/konpa/devicon/tree/master/icons/vim/vim-orginal.svg" alt="Vim">
-
-**beiertu-mms/beiertu-mms** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 - 🌱 
 - 🔭 I’m currently working on ...
 - 👯 I’m looking to collaborate on ...
