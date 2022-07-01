@@ -17,45 +17,20 @@ Looking forward to learning more about Backend Development from everyone.
 
 ### 🧰 My Toolbox
 
-<a href="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
-  <img align="center" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="CSS" width="50" height="50"/> 
-</a>
-<a href="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg">
-  <img align="center" src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" alt="CSS" width="50" height="50"/> 
-</a>
-<a href="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg">
-  <img align="center" src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" alt="CSS" width="50" height="50"/> 
-</a>
-<a href="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
-  <img align="center" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="CSS" width="50" height="50"/> 
-</a>
-<a href="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg">
-  <img align="center" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="CSS" width="50" height="50"/> 
-</a>
-<a href="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
-  <img align="center" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="CSS" width="50" height="50"/> 
-</a>
-<a href="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg">
-  <img align="center" src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" alt="CSS" width="50" height="50"/> 
-</a>
-<a href="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg">
-  <img align="center" src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" alt="CSS" width="50" height="50"/> 
-</a>
-<a href="https://github.com/devicons/devicon/blob/master/icons/gradle/gradle-plain.svg">
-  <img align="center" src="https://github.com/devicons/devicon/blob/master/icons/gradle/gradle-plain.svg" alt="CSS" width="50" height="50"/> 
-</a>
-<a href="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg">
-  <img align="center" src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" alt="CSS" width="50" height="50"/> 
-</a>
-<a href="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg">
-  <img align="center" src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" alt="CSS" width="50" height="50"/> 
-</a>
-<a href="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg">
-  <img align="center" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" alt="CSS" width="50" height="50"/> 
-</a>
-<a href="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg">
- <img align="center" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" alt="CSS" width="50" height="50"/>
-</a>
+![Arch Linux](https://img.shields.io/badge/Arch%20Linux-informational?style=for-the-badge&logo=arch+linux&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-informational?style=for-the-badge&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/Java-informational?style=for-the-badge&logo=java&logoColor=white)
+![NeoVim](https://img.shields.io/badge/Neovim-informational?style=for-the-badge&logo=neovim&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-informational?style=for-the-badge&logo=gnu+bash&logoColor=white)
+![Git](https://img.shields.io/badge/Git-informational?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-informational?style=for-the-badge&logo=docker&logoColor=white)
+![Intellij IDEA](https://img.shields.io/badge/Intellij%20IDEA-informational?style=for-the-badge&logo=intellij+idea&logoColor=white)
+![Gradle](https://img.shields.io/badge/Gradle-informational?style=for-the-badge&logo=gradle&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-informational?style=for-the-badge&logo=apache+maven&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-informational?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-informational?style=for-the-badge&logo=google+cloud&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-informational?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-informational?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
 
