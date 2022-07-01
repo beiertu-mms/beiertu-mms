@@ -1,4 +1,4 @@
-## Hello there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Tung Beier.
+# ![Header](./header-image.png)
 
 A Software Engineer specializing in JVM technologies and GCP.  
 I am specialize on the development of backend services.  
@@ -6,16 +6,7 @@ Currently I am working mainly with Apache Kafka and Kotlin.
 
 Looking forward to learning more about Backend Development from everyone.
 
----
-
-### ⚡ Some fun fact about me
-  * like Vim, Linux, the terminal, Intellij Idea
-  * hate Apple, just because ¯\\\_(ツ)_/¯
-  * Playstation or XBox? PC
-
----
-
-### 🧰 My Toolbox
+## 🧰 My Toolbox
 
 ![Arch Linux](https://img.shields.io/badge/Arch%20Linux-informational?style=for-the-badge&logo=arch+linux&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-informational?style=for-the-badge&logo=kotlin&logoColor=white)
@@ -34,7 +25,7 @@ Looking forward to learning more about Backend Development from everyone.
 
 ---
 
-### &#x1f4c8; My GitHub Stats
+## &#x1f4c8; My GitHub Stats
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=beiertu-mms&count_private=true&show_icons=true&theme=onedark&hide_title=true" />
