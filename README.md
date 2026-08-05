@@ -58,6 +58,5 @@ Looking forward to learning more about Backend Development from everyone.
 ## &#x1f4c8; My GitHub Stats
 
 ![Stats](./profile/stats.svg)
-![Top Languages](./profile/top-langs.svg)
 
 <br/>
