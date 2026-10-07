@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Tung Beier&#39;s GitHub Stats, Rank: B+</title>
-        <desc id="descId">Total Stars Earned: 8, Total Commits  (last year) : 101, Total PRs: 375, Total PRs Reviewed: 423, Total Issues: 29, PRs Reviewed: 2360, Contributed to (last year): 6</desc>
+        <desc id="descId">Total Stars Earned: 8, Total Commits  (last year) : 101, Total PRs: 375, Total PRs Reviewed: 425, Total Issues: 29, PRs Reviewed: 2363, Contributed to (last year): 5</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 119.25802828119367;
+        stroke-dashoffset: 119.41526515074271;
       }
     }
   
@@ -200,7 +200,7 @@
         x="224.01"
         y="12.5"
         data-testid="reviews"
-      >423</text>
+      >425</text>
     </g>
   </g><g transform="translate(0, 100)">
     <g class="stagger" style="animation-delay: 1050ms" transform="translate(25, 0)">
@@ -245,7 +245,7 @@
         x="224.01"
         y="12.5"
         data-testid="contribs"
-      >6</text>
+      >5</text>
     </g>
   </g>
     </svg>
