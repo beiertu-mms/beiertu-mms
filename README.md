@@ -1,4 +1,4 @@
-# ![Header](./header-image.png)
+# ![Header](./profile/banner.png)
 
 A Software Engineer specializing in JVM technologies and GCP.  
 I am specialize on the development of backend services.  
